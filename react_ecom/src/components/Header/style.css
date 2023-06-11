@@ -1,0 +1,14 @@
+.header {
+   height: 9.5rem;
+   box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
+}
+
+.header .wrap {
+   display: flex;
+   justify-content: space-between;
+}
+
+.header .wrap .logo img{
+   width : 26%;
+   transform: translate(100px, 0px);
+}
